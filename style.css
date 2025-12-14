@@ -9,17 +9,17 @@ html, body {
  }
 
     body.home-page {
-        background-image: url("whiteCarMain.jpg");
+        background-image: url("images/whiteCarMain.jpg");
     }
 
     body.parts-page {
-        background-image: url("wmbCar.jpg");
+        background-image: url("images/wmbCar.jpg");
     }
     body.forum-page {
-        background-image: url(whiteCarMain2.jpg);
+        background-image: url("images/whiteCarMain2.jpg");
     }
     body.aboutus-page {
-        background-image: url("whiteCarMain2.jpg");
+        background-image: url("images/whiteCarMain2.jpg");
     }
 
     .button-container, .buttoncontainer {
