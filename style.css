@@ -60,3 +60,10 @@ html, body {
         width: 300px;
         z-index: 1000;
     }
+
+    .mission-text{
+        font-size: 40px;
+        font-family: 'Courier New', Courier, monospace;
+        text-align: center;
+        margin-top: 20px;
+    }
